@@ -25,8 +25,14 @@ const Intro = () => {
               <div className="i-title-item">Photographer<Emoji symbol="📸"/></div>
             </div>
           </div>
-          <p className="i-desc">
-          I am currently a junior majoring in Computer Science and Data Science at UC Berkeley. So far, I have taken advantage of my education at UC Berkeley by taking courses like Data Structures, Efficient Algorithms, Machine Structures, Information Devices, Discrete Mathematics and Probability Theory, Databases and Random Processes. In the spring, I will be taking Computer Security and Artificial Intelligence. In my free time, I like to play piano, workout, and attend coding Hackathons.
+          <p className="i-desc" font-size="100px">
+          I am currently a senior majoring in Computer Science at UC Berkeley. 
+
+          This past summer, I was a Software Developer intern at Hulu working on the User State team. 
+
+          At Berkeley, I am part of the Delta Sigma sorority and Undergraduate Research Apprentice Program.
+
+          In my free time, I like to to go to the gym, concerts, and play piano.
           </p>
           <View style={{ alignItems: 'center', justifyContent: "space-evenly" }}>
             <View style={{ flexDirection: 'row', padding: 30 }}>
